@@ -565,18 +565,34 @@ Once you have completed this section you should be able to:
 
 Study on the impact of drug use on newborns ends with unexpected but clear result [ [article](https://github.com/Watts-College/paf-510-template/blob/main/pubs/crack-vs-poverty.pdf) ]
 
-* *A 1989 study in Philadelphia found that nearly one in six newborns at city hospitals had mothers who tested positive for cocaine. Troubling stories were circulating about the so-called crack babies. They had small heads and were easily agitated and prone to tremors and bad muscle tone, according to reports, many of which were anecdotal. Worse, the babies seemed aloof and avoided eye contact. Some social workers predicted a lost generation - kids with a host of learning and emotional deficits who would overwhelm school systems and not be able to hold a job or form meaningful relationships. The "crack baby" image became symbolic of bad mothering, and some cocaine-using mothers had their babies taken from them or, in a few cases, were arrested.*  
+* *A 1989 study in Philadelphia found that nearly one in six newborns at city hospitals had mothers who tested positive for cocaine. Troubling stories were circulating about the so-called "crack babies". They had small heads and were easily agitated and prone to tremors and bad muscle tone, according to reports, many of which were anecdotal. Worse, the babies seemed aloof and avoided eye contact. Some social workers predicted a lost generation - kids with a host of learning and emotional deficits who would overwhelm school systems and not be able to hold a job or form meaningful relationships. The "crack baby" image became symbolic of bad mothering, and some cocaine-using mothers had their babies taken from them or, in a few cases, were arrested.*  
 
 The study in the article was commissioned because of anedcotal evidence of a strong relationship between exposure to crack in the womb and poor development of a child, cognitively and socially. 
 
-**If crack was the policy variable in this study, what was the omitted variable?** 
+**If maternal drug use was the policy variable in this study, what was the omitted variable?** 
 
-**How did the understanding of the DIRECT impact of crack on child development change once the omitted variable was added to the models?** 
+**How did the understanding of the DIRECT impact of crack cocaine on child development change once the omitted variable was added to the models?** 
 
 **When are omitted variables a problem? What makes a variable a competing hypothesis?**  
 
 <br>
+
+**Updated Example:**
+
+Modern regression analysis in the social sciences is arguably young. Regression was invented in the late 1800's and spread quickly as a powerful statistical tool for turning data into testable hypotheses. Work in the early 1900's focused on problems of specification (the last three sections in this class). However, the regressions tools used to identify causal relationships from observational data were not developed fully until the 1970's and 1980's as econometrics matured as a field. It took a couple of decades for other social sciences to adopt similar statistical frameworks. Fields like medicine, which have traditionally relied on A/B studies and randomized control trials for causal analysis, have taken longer to build the capacity to use administrative data for causal analysis. As a result, you see variance in the rigor of the review process applied to causal claims made with observational data across disciplines and journals. 
+
+The study above was published in 1989, which was still early in the econometrics diffusion process. It was not unusual for theory to be built from correlation analysis and for strong causal claims to be made from cross section regressions. Omitted variable problems plaugue much of that work, which is why most academics journals now have a strong preference for panel models, natural experiments, and other methods of triangulation. It is more rare, but we still see impactful research in top journals overturned when omitted variables are added to the studies. Similar to the study above, the following research explores alternative explanations for poor birth outcomes. The initial study below makes a big splash with compelling claims, but subsequent research adds control variables that show that the initial phenomenon may be entirely correlational and have little or no causal impact. 
+
+- [ [Doctor-Patient Racial Concordance Debate](https://github.com/Watts-College/paf-510-template/blob/main/pubs/racial-concordance-and-disparities-in-birthing-mortality-economist.pdf) ]   
+- [ [Doctor-Patient Racial Concordance Study](https://github.com/Watts-College/paf-510-template/blob/main/pubs/racial-concordance-and-disparities-in-birthing-mortality.pdf) ]  
+- [ [Doctor-Patient Racial Concordance Revisited With Omitted Variables Added](https://github.com/Watts-College/paf-510-template/blob/main/pubs/racial-concordance-and-disparities-in-birthing-mortality-revisited.pdf) ]  
+
+**_Note_** that science is self-correctional. In the future no reputable journals will publish studies on doctor-patient concordance without models that include control variables that have been shown to address an omitted variable bias problem. However, as The Economist points out, splashy and controversial new findings are newsworthy. Research that improves upon the preliminary work in ways that make the findings unsurprising or generates non-results (null findings) is much less likely to be covered by media or cited widely. 
+
+**It is also a reason why we need more experts like you** that have been trained in the nuances of causal reasoning using regression. The media is biased toward publishing stories that compete for attention. Preliminary findings are the most likely to be controversial and thus more likely to get published. They are also the most likely to change through subsequent research. But after receiving a lot of attention, the preliminary findings will be much more present in science and news archives used to train large language AI models. Thus, disproved preliminary findings are much more likely to persist over time, which is another type of bias. Program evaluation experts will evaluate the evidence based upon the strength of the findings, placing much more value on new research that has overturned previous results with better data and better models than the volume of commentary on a given study. Most journalists and policy-makers will not have the skills needed to read the literature closely, so they will rely on media or AI to interpret the evidence for them. **You have an important role to play in this current information ecosystem,** and your skills are likely to be more valuable over time as the volume of information increases faster than its quality. 
+
 <br>
+<br> 
 
 
 
