@@ -5,7 +5,7 @@ output:
     theme: readable
     highlight: tango
     toc: true
-    self_contained: false
+    self_contained: true
     number_sections: false
     css: labs.css
     includes:

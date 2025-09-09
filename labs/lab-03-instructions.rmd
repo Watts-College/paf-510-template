@@ -6,7 +6,7 @@ output:
     highlight: tango
     toc: true
     toc_depth: 2
-    self_contained: false
+    self_contained: true
     number_sections: false
     css: labs.css
     includes:
